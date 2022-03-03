@@ -5,7 +5,15 @@
 
 :computer: I enjoy spending my time on personal projects and learning more about Rails and JavaScript.
 
-:pushpin: On my latest project - WatchList (https://aristorap-watchlist.herokuapp.com) - I'm learning more about Stimulus and AJAX calls to external APIs and the Rails backend.
+:pushpin: Currently building a Rails chess app - Learning more about Stimulus and AJAX CRUD calls to Rails backend
+
+## Past project mentions
+
+### :movie_camera: WatchList https://aristorap-watchlist.herokuapp.com
+   App which allows users to browse, search, like and add movies to personal favorites using the TMDB API.
+   #### Main technologies used: 
+    Rails | Stimulus | Vanilla JS | AJAX | PostgreSQL
+
 
 
 ## Some of the technologies I'm using:
