@@ -7,6 +7,8 @@
 
 :pushpin: Currently building a Rails chess app - Learning more about Stimulus and AJAX CRUD calls to Rails backend
 
+:bookmark: My portfolio page: https://aristorap.herokuapp.com
+
 ## Past project mentions
 
 ### :movie_camera: WatchList https://aristorap-watchlist.herokuapp.com
