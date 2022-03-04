@@ -20,7 +20,7 @@
 ### :movie_camera: WatchList https://aristorap-watchlist.herokuapp.com
    App which allows users to browse, search, like and add movies to personal favorites using the TMDB API.
    #### Main technologies used: 
-          Rails | Stimulus | Vanilla JS | AJAX | PostgreSQL
+    Rails | Stimulus | Vanilla JS | AJAX | PostgreSQL
 
 
 
