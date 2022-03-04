@@ -10,6 +10,8 @@
 2. Team project app connecting gym enthousiasts with trainers who can create and assign training plans 
    and at the same time enabling real-time feedback between the two groups and access to historical data
    in order to monitor gym progress :muscle: 
+   ##### Main technologies used
+       Rails | WebSockets (Action Cable) | Stimulus | Vanilla JS | AJAX | PostgreSQL 
 
 :bookmark: My portfolio page: https://aristorap.herokuapp.com
 
@@ -18,7 +20,7 @@
 ### :movie_camera: WatchList https://aristorap-watchlist.herokuapp.com
    App which allows users to browse, search, like and add movies to personal favorites using the TMDB API.
    #### Main technologies used: 
-    Rails | Stimulus | Vanilla JS | AJAX | PostgreSQL
+          Rails | Stimulus | Vanilla JS | AJAX | PostgreSQL
 
 
 
