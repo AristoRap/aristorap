@@ -6,7 +6,7 @@
 :computer: I enjoy spending my time on personal projects and learning more about Rails and JavaScript.
 
 #### :pushpin: Currently working on two apps:
-1. Rails chess app - My own flip of the classic game, focusing on improving my knowledge of Stimulus and AJAX CRUD calls to Rails backend
+1. Rails chess app - My own flip of the classic game, focusing on improving my knowledge of Stimulus/JavaScript and AJAX CRUD calls to Rails backend
 2. Team project app connecting gym enthousiasts with trainers who can create and assign training plans 
    and at the same time enabling real-time feedback between the two groups and access to historical data
    in order to monitor gym progress :muscle: 
