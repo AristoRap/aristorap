@@ -11,7 +11,7 @@
    and at the same time enabling real-time feedback between the two groups and access to historical data
    in order to monitor gym progress :muscle: 
    ##### Main technologies used
-       Rails | Stimulus | Vanilla JS | AJAX | WebSockets (Action Cable) | PostgreSQL 
+       Rails | Stimulus | Vanilla JS | AJAX | WebSocket (Action Cable) | PostgreSQL 
 
 :bookmark: My portfolio page: https://aristorap.herokuapp.com
 
