@@ -3,11 +3,12 @@
 
 :round_pushpin: Currently based in Amsterdam and working at a large health-tech company as a business and reporting analyst. 
 
-:computer: I enjoy spending my time on personal projects and learning more about Rails and JavaScript.
+:computer: I enjoy spending my time on personal projects and learning more about Rails and JavaScript (React).
 
-#### :pushpin: Currently working on two apps:
-1. (Personal) Rails chess app - My own flip of the classic game, focusing on improving my knowledge of Stimulus/JavaScript and AJAX CRUD to Rails backend
-2. (Group project) App connecting gym enthousiasts with trainers who can create and assign training plans 
+#### :pushpin: Some of the apps I'm currently working on:
+1. (Personal) Chess app - My own flip of the classic game, focusing on improving my knowledge of Stimulus/JavaScript and AJAX CRUD to Rails backend
+2. (Personal) Calculator app - Simple calculator app as an entry project to React.
+3. (Group project) App connecting gym enthousiasts with trainers who can create and assign training plans 
    and at the same time enabling real-time feedback between the two groups and access to historical data
    in order to monitor gym progress :muscle: 
    ##### Main technologies used
