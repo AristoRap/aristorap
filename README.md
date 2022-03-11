@@ -7,7 +7,7 @@
 
 #### :pushpin: Some of the apps I'm currently working on:
 1. (Personal) Chess app - My own flip of the classic game, focusing on improving my knowledge of Stimulus/JavaScript and AJAX CRUD to Rails backend
-2. (Personal) Calculator app - Simple calculator app as an entry project to React.
+2. (Personal) Weather app - Weather app using the OpenWeatherMap API - Built with Rails and React.
 3. (Group project) App connecting gym enthousiasts with trainers who can create and assign training plans 
    and at the same time enabling real-time feedback between the two groups and access to historical data
    in order to monitor gym progress :muscle: 
