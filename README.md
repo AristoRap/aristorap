@@ -11,8 +11,7 @@
 :bookmark: My portfolio page: https://aristorap.herokuapp.com
 
 ## Some of the technologies I'm currently using:
-# ![Web_Dev_Icons](https://user-images.githubusercontent.com/65190225/154858200-60617032-fadf-47fe-a74a-e01312ad1d06.png)
-
+    Ruby | Rails | JavaScript | React | Stimulus | PostgreSQL | CSS3/SCSS | HTML5 | Figma | GitHub
 <!--
 **AristoRap/aristorap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
