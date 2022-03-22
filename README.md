@@ -6,24 +6,9 @@
 :computer: I enjoy spending my time on personal projects and learning more about Rails and JavaScript (React).
 
 #### :pushpin: Some of the apps I'm currently working on:
-1. (Personal) Chess app - My own flip of the classic game, focusing on improving my knowledge of Stimulus/JavaScript and AJAX CRUD to Rails backend
-2. (Personal) Weather app - Weather app using the OpenWeatherMap API - Built with Rails and React.
-3. (Group project) App connecting gym enthousiasts with trainers who can create and assign training plans 
-   and at the same time enabling real-time feedback between the two groups and access to historical data
-   in order to monitor gym progress :muscle: 
-   ##### Main technologies used
-       Rails | Stimulus | Vanilla JS | AJAX | WebSocket (ActionCable) | PostgreSQL 
+1. (Personal) Pokedex app - A website displaying information and stats about pokemon using the PokeAPI - Built with Rails
 
 :bookmark: My portfolio page: https://aristorap.herokuapp.com
-
-## Past project mentions
-
-### :movie_camera: WatchList https://aristorap-watchlist.herokuapp.com
-   App which allows users to browse, search, like and add movies to personal favorites using the TMDB API.
-   #### Main technologies used: 
-    Rails | Stimulus | Vanilla JS | AJAX | PostgreSQL
-
-
 
 ## Some of the technologies I'm currently using:
 # ![Web_Dev_Icons](https://user-images.githubusercontent.com/65190225/154858200-60617032-fadf-47fe-a74a-e01312ad1d06.png)
