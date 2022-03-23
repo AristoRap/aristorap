@@ -6,7 +6,7 @@
 :computer: I enjoy spending my time on personal projects and learning more about Rails and JavaScript (React).
 
 #### :pushpin: Some of the apps I'm currently working on:
-1. (Personal) Pokedex app - A website displaying information and stats about pokemon using the PokeAPI - Built with Rails
+1. (Personal) Pokedex app - An app displaying information and stats about pokemon using the PokeAPI - Built with Rails
 
 :bookmark: My portfolio page: https://aristorap.herokuapp.com
 
