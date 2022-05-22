@@ -55,6 +55,8 @@
       />
       <br /><strong>HTML5</strong>
     </td>
+      <br /><strong>Bootstrap</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
@@ -71,10 +73,6 @@
         height="48"
         alt="Bootstrap"
       />
-      <br /><strong>Bootstrap</strong>
-    </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
