@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm Aris
-:raising_hand: I am a full stack developer with a background in applied economics and business.
+:raising_hand: I am a junior full stack developer with a background in applied economics and business.
 
 :round_pushpin: Currently based in Amsterdam and working at a large health-tech company as a business and reporting analyst. 
 
