@@ -1,15 +1,20 @@
 # 👋 Hey there! I'm Aris
-:raising_hand: I am a junior full stack developer with a background in applied economics and business.
+:raising_hand: I am a software engineer with a background in applied economics and business.
 
-:round_pushpin: Currently based in Amsterdam and working at a large health-tech company as a business and reporting analyst. 
-
-:computer: I enjoy spending my time on personal projects and learning more about Rails and JavaScript (React).
-
-:bookmark: My portfolio page: https://aristorap.herokuapp.com
+:round_pushpin: Currently based in Amsterdam and working as a Site Reliability Engineer in the banking industry.
 
 # 🔧 Technologies & Tools
 <table>
   <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
@@ -36,15 +41,6 @@
         alt="JavaScript"
       />
       <br /><strong>JavaScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>React</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -120,15 +116,13 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg"
         width="48"
         height="48"
-        alt="Heroku"
+        alt="Azure"
       />
-      <br /><strong>Heroku</strong>
+      <br /><strong>Azure</strong>
     </td>
   </tr>
 </table>
 <br />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aristorap&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
